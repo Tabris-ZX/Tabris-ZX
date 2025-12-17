@@ -1,10 +1,12 @@
 
-![title](resources/title.png)
+<div align="center">
+    <img src="resources/title.png" width="600">
+</div>
+
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=8C43EA&center=true&vCenter=true&width=400&height=50&font=Baloo+2&lines=Hello,+visitor!👋🏻;Welcome+to+my+coding+corner.;Glad+to+meet+you!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=8C43EA&center=true&vCenter=true&width=400&height=50&font=Baloo+2&lines=Hello,+visitor!👋🏻;Glad+to+meet+you!)](https://git.io/typing-svg)
 </div>
 
 ---
@@ -14,14 +16,13 @@
 <img align="right" width="360"
        src="https://count.getloli.com/get/@Tabris-ZX?theme=rule34&align=center" />
 
-[![My GitHub][github-icon]](github-link)
+[![My GitHub][github-icon]](https://www.github.com/Tabris-ZX)
 
+[![Codeforces][cf-icon]](https://codeforces.com/profile/Tabris-ZX)
 <!-- [![My Bolg][blog-icon]](blog-link) -->
-![My QQ][qq-icon]
+[![My QQ][qq-icon]]()
 
-![My email][email-icon]   
-
-[![Codeforces][cf-icon]](cf-link)
+[![My email][email-icon]]()   
 
 ---
 ### 💻 My Tech Stack & Skills
@@ -39,7 +40,6 @@
 ![Git][git]
 ![JavaScript][js]
 ![tomcat][tomcat]
-
 
 
 - **Primary languages**: 
@@ -62,13 +62,10 @@
   <img src="https://skillicons.dev/icons?i=java,python,cs,javascript,codeforces&theme=dark" />
 </p> -->
 
-[qq-icon]: https://img.shields.io/badge/QQ-3146463122-eb1923?logo=tencent-qq&style=for-the-badge
-[github]: https://www.github.com/Tabris-ZX
+[qq-icon]: https://img.shields.io/badge/QQ-3146463122-eb1923?logo=qq&style=for-the-badge
 [github-icon]: https://img.shields.io/badge/Github-Tabris_ZX-181717?logo=github&style=for-the-badge
 [email-icon]: https://img.shields.io/badge/Email-tabris.algo@gmail.com-red?logo=gmail&style=for-the-badge
 [cf-icon]: https://img.shields.io/badge/Codeforces-Tabris--ZX-0078D7?style=for-the-badge&logo=codeforces
-[cf-link]: https://codeforces.com/profile/Tabris-ZX
-
 
 [python]: https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff
 [fastapi]: https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=fff
