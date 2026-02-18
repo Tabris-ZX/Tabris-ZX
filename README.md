@@ -30,13 +30,13 @@
 <table>
   <tr>
     <td align="left" valign="top">
-      <p>
-        <b>Primary languages:</b><br>
-        `Java` · `Python` · `C#` · `JavaScript`
-      </p>
-      <p>
-        <b>Focus areas:</b><br>
-        `Algorithms` `Backend Dev` `Bot` `Script` `Desktop Dev`
+    
+- **Primary languages:**
+`Java` · `Python` · `C#` · `JavaScript`
+      
+- **Focus areas:**
+
+`Algorithms` `Backend Dev` `Bot` `Script` `Desktop Dev`
       </p>
       <br>
       ![Java][java]
