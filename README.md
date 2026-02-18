@@ -1,7 +1,4 @@
 
-<!-- <div align="center">
-    <img src="resources/title.png" width="600">
-</div> -->
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello%20World&section=header&reversal=false&fontSize=90&fontAlignY=40&animation=twinkling&desc=I%20am%20Tabris-ZX&descSize=30&descAlignY=60" alt="Hello World" title="Hello World"/>
     <div align="center">
@@ -9,7 +6,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=008BB&center=true&vCenter=true&width=400&height=50&font=Baloo+2&lines=Hello,+visitor!👋🏻;Glad+to+meet+you!)](https://git.io/typing-svg)
 </div>
 </p>
-
 
 ---
 
@@ -32,8 +28,12 @@
 ### 💻 My Tech Stack & Skills
 
 <p align="right">
+<div>
     <img width="400" src="https://github-readme-stats-pi-pied-31.vercel.app/api?username=Tabris-ZX&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&&number_format=long&include_all_commits=true" alt="Profile Stats" title="Profile Stats" />
+    </div>
+    <div>
     <img width="400" src="https://github-readme-streak-stats-six-peach.vercel.app?user=Tabris-ZX&theme=transparent&hide_border=true&locale=zh_Hans&date_format=%5BY.%5Dn.j" alt="Streak Stats" title="Streak Stats" />
+    </div>
 </p>
 
 ![Java][java]
