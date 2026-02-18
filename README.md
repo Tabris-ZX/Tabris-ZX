@@ -27,12 +27,14 @@
 ---
 ### 💻 My Tech Stack & Skills
 
+<p>
 <div>
 <img align="right" width="400" src="https://github-readme-stats-pi-pied-31.vercel.app/api?username=Tabris-ZX&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&&number_format=long&include_all_commits=true" alt="Profile Stats" title="Profile Stats" />
 </div>
 <div>
 <img align="right" width="400" src="https://github-readme-streak-stats-six-peach.vercel.app?user=Tabris-ZX&theme=transparent&hide_border=true&locale=zh_Hans&date_format=%5BY.%5Dn.j" alt="Streak Stats" title="Streak Stats" />
 </div>
+</p>
 
 ![Java][java]
 ![C#][csharp]
