@@ -1,12 +1,15 @@
 
-<div align="center">
+<!-- <div align="center">
     <img src="resources/title.png" width="600">
-</div>
-
-<div align="center">
+</div> -->
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello%20World&section=header&reversal=false&fontSize=90&fontAlignY=40&animation=twinkling&desc=I%20am%20Tabris-ZX&descSize=30&descAlignY=60" alt="Hello World" title="Hello World"/>
+    <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=008BB&center=true&vCenter=true&width=400&height=50&font=Baloo+2&lines=Hello,+visitor!👋🏻;Glad+to+meet+you!)](https://git.io/typing-svg)
 </div>
+</p>
+
 
 ---
 
@@ -28,11 +31,15 @@
 ---
 ### 💻 My Tech Stack & Skills
 
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=tabris-zx&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC&hide_border=true" />
+<p align="right">
+    <img width="400" src="https://github-readme-stats-pi-pied-31.vercel.app/api?username=Tabris-ZX&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&&number_format=long&include_all_commits=true" alt="Profile Stats" title="Profile Stats" />
+    <img width="400" src="https://github-readme-streak-stats-six-peach.vercel.app?user=Tabris-ZX&theme=transparent&hide_border=true&locale=zh_Hans&date_format=%5BY.%5Dn.j" alt="Streak Stats" title="Streak Stats" />
+</p>
 
 ![Java][java]
 ![C#][csharp]
 ![Python][python]
+![Avalonia][avalonia]
 ![FastAPI][fastapi]
 ![PostgreSQL][postgresql]
 ![Mysql][mysql]
@@ -48,7 +55,7 @@
 `Java` · `Python` · `C#` · `JavaScript`  
 - **Focus areas**: 
 
-`Backend Dev` `Algorithms` `Bot` `Script` 
+`Algorithms` `Backend Dev`  `Bot` `Script` `Desktop Dev` 
 
 ---
 
@@ -70,6 +77,7 @@
 [java]: https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logoColor=fff&logo=spring
 [csharp]: https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=cplusplus&logoColor=fff
 [springboot]: https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=Springboot&logoColor=fff
+[avalonia]: https://img.shields.io/badge/-Avalonia-165BFF?style=flat-square&logo=avaloniaui&logoColor=fff
 [mysql]: https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=fff
 [js]: https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=fff
 [git]: https://img.shields.io/badge/-git-F05032?style=flat-square&logo=git&logoColor=fff
