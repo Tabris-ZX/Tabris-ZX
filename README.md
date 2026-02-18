@@ -30,8 +30,9 @@
 <table>
   <tr>
     <td align="left" valign="top">
-    
+
 - **Primary languages:**
+
 `Java` · `Python` · `C#` · `JavaScript`
       
 - **Focus areas:**
