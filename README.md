@@ -27,34 +27,33 @@
 ---
 ### 💻 My Tech Stack & Skills
 
-<p>
-<div>
-<img align="right" width="400" src="https://github-readme-stats-pi-pied-31.vercel.app/api?username=Tabris-ZX&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&&number_format=long&include_all_commits=true" alt="Profile Stats" title="Profile Stats" />
-</div>
-<div>
-<img align="right" width="400" src="https://github-readme-streak-stats-six-peach.vercel.app?user=Tabris-ZX&theme=transparent&hide_border=true&locale=zh_Hans&date_format=%5BY.%5Dn.j" alt="Streak Stats" title="Streak Stats" />
-</div>
-</p>
-
-![Java][java]
-![C#][csharp]
-![Python][python]
-![Avalonia][avalonia]
-![FastAPI][fastapi]
-![PostgreSQL][postgresql]
-![Mysql][mysql]
-![Sqlite][sqlite]
-![Springboot][springboot]
-![Git][git]
-![JavaScript][js]
-![tomcat][tomcat]
-
-- **Primary languages**: 
-
-`Java` · `Python` · `C#` · `JavaScript`  
-- **Focus areas**: 
-
-`Algorithms` `Backend Dev`  `Bot` `Script` `Desktop Dev` 
+<table>
+  <tr>
+    <td align="left" valign="top">
+      <p>
+        <b>Primary languages:</b><br>
+        <code>Java</code> · <code>Python</code> · <code>C#</code> · <code>JavaScript</code>
+      </p>
+      <p>
+        <b>Focus areas:</b><br>
+        <code>Algorithms</code> <code>Backend Dev</code> <code>Bot</code> <code>Script</code> <code>Desktop Dev</code>
+      </p>
+      <br>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="SpringBoot" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      </td>
+    <td align="right" valign="top" width="400px">
+      <img width="400px" src="https://github-readme-stats-pi-pied-31.vercel.app/api?username=Tabris-ZX&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&number_format=long&include_all_commits=true" alt="Profile Stats" />
+      <br>
+      <img width="400px" src="https://github-readme-streak-stats-six-peach.vercel.app?user=Tabris-ZX&theme=transparent&hide_border=true&locale=zh_Hans&date_format=%5BY.%5Dn.j" alt="Streak Stats" />
+    </td>
+  </tr>
+</table>
 
 ---
 
