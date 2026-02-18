@@ -36,8 +36,6 @@
   </div>
 </div>
 
-<div align="left">
-
 ![Java][java]
 ![C#][csharp]
 ![Python][python]
@@ -58,8 +56,6 @@
 - **Focus areas**: 
 
 `Algorithms` `Backend Dev`  `Bot` `Script` `Desktop Dev` 
-
-</div>
 
 ---
 
