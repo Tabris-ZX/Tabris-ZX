@@ -43,15 +43,13 @@
       ![Java][java]
       ![C#][csharp]
       ![Python][python]
+      ![JavaScript][js]
       ![Avalonia][avalonia]
       ![FastAPI][fastapi]
-      ![PostgreSQL][postgresql]
-      ![Mysql][mysql]
-      ![Sqlite][sqlite]
       ![Springboot][springboot]
-      ![Git][git]
-      ![JavaScript][js]
-      ![tomcat][tomcat]
+      ![Godot][godot]
+      ![PostgreSQL][postgresql]
+      ![Sqlite][sqlite]
     </td>
     <td align="right" valign="top" width="360px">
       <img width="360px" src="https://github-readme-stats-pi-pied-31.vercel.app/api?username=Tabris-ZX&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&&number_format=long&include_all_commits=true" alt="Profile Stats" />
@@ -82,7 +80,5 @@
 [csharp]: https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=cplusplus&logoColor=fff
 [springboot]: https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=Springboot&logoColor=fff
 [avalonia]: https://img.shields.io/badge/-Avalonia-165BFF?style=flat-square&logo=avaloniaui&logoColor=fff
-[mysql]: https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=fff
 [js]: https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=fff
-[git]: https://img.shields.io/badge/-git-F05032?style=flat-square&logo=git&logoColor=fff
-[tomcat]: https://img.shields.io/badge/-Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=fff
+[godot]: https://img.shields.io/badge/-Godot-478CBF?style=flat-square&logo=godotengine&logoColor=fff
