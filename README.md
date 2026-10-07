@@ -16,13 +16,15 @@
 
 [![My GitHub][github-icon]](https://www.github.com/Tabris-ZX)
 
-[![Codeforces][cf-icon]](https://codeforces.com/profile/Tabris-ZX)
+<!-- [![Codeforces][cf-icon]](https://codeforces.com/profile/Tabris-ZX) -->
 
 <!-- [![My Bolg][blog-icon]](blog-link) -->
 
-[![My QQ][qq-icon]](https://github.com/Tabris-ZX)
+![My QQ][qq-icon]
 
-[![My email][email-icon]](https://github.com/Tabris-ZX)   
+![My QQ group][qq_group-icon]
+
+![My email][email-icon]
 
 ---
 ### 💻 My Tech Stack & Skills
@@ -37,7 +39,7 @@
       
 - **Focus areas:**
 
-`Algorithms` `Backend Dev` `Bot` `Script` `Desktop Dev`
+`XCPC` `Backend Dev` `QQBot` `Script` `Desktop Dev`
       </p>
       <br>
       ![Java][java]
@@ -68,9 +70,12 @@
 </div>
 
 [qq-icon]: https://img.shields.io/badge/QQ-3146463122-eb1923?logo=qq&style=for-the-badge
+[qq_group-icon]: https://img.shields.io/badge/QQ_chat_group-1013962975-eb1923?logo=qq&style=for-the-badge
 [github-icon]: https://img.shields.io/badge/Github-Tabris--ZX-181717?logo=github&style=for-the-badge
-[email-icon]: https://img.shields.io/badge/Email-tabris.algo@gmail.com-red?logo=gmail&style=for-the-badge
+[email-icon]: https://img.shields.io/badge/Email-tabris.zxu@gmail.com-red?logo=gmail&style=for-the-badge
 [cf-icon]: https://img.shields.io/badge/Codeforces-Tabris--ZX-0078D7?style=for-the-badge&logo=codeforces
+
+
 
 [python]: https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff
 [fastapi]: https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=fff
